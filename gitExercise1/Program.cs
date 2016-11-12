@@ -12,6 +12,8 @@ namespace gitExercise1
         {
             Console.WriteLine("hello from Main!");
             MyClass.hello();
+            Console.WriteLine("Ante is a soccer player.");
+            Console.WriteLine("USA stands for United States of America.");
         }
     }
 }
