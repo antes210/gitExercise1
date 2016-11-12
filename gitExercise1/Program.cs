@@ -15,6 +15,7 @@ namespace gitExercise1
             Console.WriteLine("Ante is a soccer player.");
             Console.WriteLine("USA stands for United States of America.");
             Console.WriteLine("Real Madrid is best soccer team in the world");
+            Console.WriteLine("Last test line");
         }
     }
 }
